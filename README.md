@@ -16,9 +16,10 @@
   - LED Sequence: `alb, roșu, mov, galben`
 
 - **ADC**
-  - PIT
-  - Analog Sensor
+  - Analog Sensor: `On-board Temperature Sensor`
   - Single Ended Precision: `16`
+ 
+- **PIT**
   - LED Sequence Duration: `836 ms`
 
 ### Tratarea datelor
