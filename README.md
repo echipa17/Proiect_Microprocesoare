@@ -26,3 +26,16 @@
 - Valoarea digitală rezultată din conversia tensiunii datelor achiziționate va fi în intervalul `[DMIN - DMAX]`.
 - Acest interval este împărțit în 3 subintervale: valori mici, medii și mari.
 - Reprezentarea datelor convertite se va face prin numărul de acționări a unui buzzer.
+
+## Modul Senzor de Touch
+
+În cadrul proiectului nostru, am integrat un **senzor de touch** care permite utilizatorilor să interacționeze direct cu sistemul. Acesta este configurat pentru a declanșa un algoritm de alertă, contribuind astfel la interactivitatea și eficiența sistemului.
+
+### Caracteristici
+- Sensibilitate ajustabilă pentru diferite aplicații
+- Interfață simplă și intuitivă
+- Integrare cu modulul de alarmă pentru o reacție rapidă la atingere
+
+### Implementare
+Utilizăm senzorul de touch pentru a activa un buzzer, oferind feedback imediat utilizatorului. Codul de configurare este optimizat pentru a asigura o detecție fiabilă și precisă a atingerilor.
+
