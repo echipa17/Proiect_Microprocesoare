@@ -27,7 +27,10 @@
 - Acest interval este împărțit în 3 subintervale: valori mici, medii și mari.
 - Reprezentarea datelor convertite se va face prin numărul de acționări a unui buzzer.
 
-## Modul Senzor de Touch
+## Videoclipul prezentării
+Pentru o demonstrație detaliată a proiectului și o înțelegere mai bună a implementărilor efectuate, urmăriți videoclipul prezentării noastre: https://youtu.be/-FgpAtF_460
+
+## Senzor Touch
 
 În cadrul proiectului nostru, am integrat un **senzor de touch** care permite utilizatorilor să interacționeze direct cu sistemul. Acesta este configurat pentru a declanșa un algoritm de alertă, contribuind astfel la interactivitatea și eficiența sistemului.
 
